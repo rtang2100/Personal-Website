@@ -51,12 +51,12 @@ interests:
 education:
   - area: PhD in Psychological & Brain Sciences
     institution: Washington University
-    date_start: ''
-    date_end: '2021'
+    date_start: 
+    date_end: 2021
   - area: BSc in Psychology
     institution: The University of Texas at Austin
-    date_start: ''
-    date_end: '2014'
+    date_start: 
+    date_end: 2014
 ---
 
 ## About Me
