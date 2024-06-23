@@ -25,7 +25,7 @@ role: Assistant Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Texas A&M University
-    url: https://openai.com/
+    url: https://liberalarts.tamu.edu/psychology/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,16 +49,18 @@ interests:
   - Brain-Body Interaction
   - Lifestyle Intervention
 education:
-  - area: PhD in Psychological & Brain Sciences
+  - area: PhD in Psychological & Brain Sciences, 2021
     institution: Washington University
     date_start: 
     date_end: 2021
   - area: BSc in Psychology
-    institution: The University of Texas at Austin
+    institution: The University of Texas at Austin, 2014
     date_start: 
     date_end: 2014
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor of Psychological and Brain Sciences at Texas A&M University. My research focuses on understanding cognitive functions across young and older adulthood, especially brain mechanisms and risk factors that lead to differential cognitive trajectories in aging (healthy vs. pathological/Alzheimer's disease). Moreover, I study how lifestyle interventions may promote cognitive function across the lifespan. In my research, I use a variety of techniques, including cognitive assessments, experience sampling, multimodal neuroimaging (functional, structural, diffusion MRI), computational neuroscience methods, and blood-based biomarkers. Currently, I lead the Lifespan Health Neuroscience Lab at Texas A&M University.
+
+In my free time, I enjoy traveling, eating great food and desserts, and photography.
