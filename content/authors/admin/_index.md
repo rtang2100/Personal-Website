@@ -53,8 +53,8 @@ education:
     institution: Washington University
     date_start: 
     date_end: 2021
-  - area: BSc in Psychology
-    institution: The University of Texas at Austin, 2014
+  - area: BSc in Psychology, 2014
+    institution: The University of Texas at Austin
     date_start: 
     date_end: 2014
 ---
