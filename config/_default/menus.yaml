@@ -7,10 +7,10 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Projects
+  - name: Research
     url: projects/
     weight: 11 
-  - name: Papers
+  - name: Posts
     url: /#papers
     weight: 12
   - name: Talks
